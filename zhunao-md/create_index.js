@@ -3,7 +3,7 @@ const path = require("path");
 
 const fse = require("fs-extra");
 
-let default_title = "公众号「0加1」";
+let default_title = "住脑!放开段子让我来!";
 
 // 真实readme的位置
 let true_readme_md = "000readme-zhunao.md";
