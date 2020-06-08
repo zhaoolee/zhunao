@@ -4,6 +4,8 @@ const download = require("download");
 const fs = require("fs");
 const { spawn } = require("child_process");
 
+const os = require('os');
+
 let RepositoriesName = "zhunao";
 
 let readme_img_dir =

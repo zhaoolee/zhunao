@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const fse = require("fs-extra");
 const showdown = require("showdown");
+const os = require('os');
 
 // 加分类
 let category_list = ["住脑!放开段子让我来!"];
@@ -173,6 +174,13 @@ async function get_md_file_name_title_content(md_file_pathname) {
   let title = await get_top_info(md_file_pathname, "title");
 
   let md_file_name_arr = md_file_pathname.split("/");
+
+  if(os.platform() === "win32"){
+    console.log("+++>>Windows平台::", os.platform());
+    md_file_name_arr = md_file_pathname.split("\\");
+    console.log("Windows平台获得的数组", md_file_name_arr);
+
+  }
 
   let md_file_name =
     md_file_name_arr[(md_file_name_arr ? md_file_name_arr : []).length - 1];
