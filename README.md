@@ -20,6 +20,9 @@
 
 [001 有哪些你想发明却已经被人发明了的东西？](https://www.v2fy.com/p/001-faming-zn/)
 
+
+[002 test-002-套路](https://www.v2fy.com/p/002-zn/)
+
 ---end---
 
 
