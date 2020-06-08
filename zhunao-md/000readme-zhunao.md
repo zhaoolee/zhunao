@@ -4,14 +4,34 @@
 给大脑加个段子扩展包, 和谐你的大脑
 
 
+《住脑！放开段子让我来！》是一本程序员写的书，和技术没啥联系，本书从主流平台收录逗机灵的问题，进行二次创作
+
+
+
+## 内容同步更新到公众号「0加1」
+
+![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/jikemiji.png)
+
+
 ---start---
 
 [住脑!放开段子让我来!](https://www.v2fy.com/p/000readme-zhunao/)
 
 
-[有哪些你想发明却已经被人发明了的东西？](https://www.v2fy.com/p/001-faming-zn/)
+[001有哪些你想发明却已经被人发明了的东西？](https://www.v2fy.com/p/001-faming-zn/)
 
 ---end---
 
 
+## 在线观看
+
+[《住脑！放开段子让我来！》Github开源版本](https://github.com/zhaoolee/zhunao)
+
+
+[《住脑！放开段子让我来！》国内连载版本](https://www.v2fy.com/p/000readme-zhunao/)
+
+
+## 把航空母舰当货船
+
+本书在Github更新，用于验证在Github写畅销电子书的可行性
 
