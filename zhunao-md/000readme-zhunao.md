@@ -18,7 +18,7 @@
 [住脑!放开段子让我来!](https://www.v2fy.com/p/000readme-zhunao/)
 
 
-[001 为什么JOJO替身使者无法被普通人看到?](https://www.v2fy.com/p/001-faming-zn/)
+[001 有哪些万能的表情包?](https://www.v2fy.com/p/001-zn/)
 
 ---end---
 
